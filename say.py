@@ -9,4 +9,4 @@ async def say(ctx, *texte):                       #permissions if you want to ch
     await ctx.message.delete() #<=== You can delete this line if you want to keep the message your order after executing it
     await ctx.send(" ".join(texte))
 
-bot.run("ODM1NDc3NjkzMDYzMjMzNTU5.YIQBPA.xQ0ZROD-lSWmNbLqFUSoUXAqZ2Y") #<=== Put the token between the quotes.
+bot.run("**********************************************") #<=== Put the token between the quotes.
